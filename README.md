@@ -1,4 +1,4 @@
-ProyectoFutbol
+Proyecto Juego de Futbol
 ==============
 
 Descripción del proyecto:
