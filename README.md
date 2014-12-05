@@ -16,3 +16,8 @@ Lista de tareas que llevar a cabo:
 - Elección de las tecnologías y creación del proyecto.
 - Planificación y desglose del desarrollo en bloques y subtareas.
 - Definición detallada del proyecto
+
+
+*Propuesta: llevar a cabo estas tareas globales (y nuevas que vayan surgiendo) entre todos y, a
+medida que se vaya detallando y desglosando el proyecto, ir editando esta lista de tareas y apuntando
+cada uno la que se asigna y cuanto lleva hecho o si la tiene terminada.
